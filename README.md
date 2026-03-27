@@ -1,5 +1,5 @@
 # PRODIGY_GA_01
-# 🧠 GPT-2 Text Generation Demo
+# 🧠 GPT-2 Text 
 
 This project demonstrates how to use OpenAI's GPT-2 model (via Hugging Face Transformers) for text generation using various decoding strategies like greedy search, beam search, and sampling.
 
